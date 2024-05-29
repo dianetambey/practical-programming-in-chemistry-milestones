@@ -8,9 +8,9 @@ The **personal milestones table** outlines key milestones for practical programm
 | Week | Milestone                                   | Link                                                                        |      
 |------|---------------------------------------------|-----------------------------------------------------------------------------|
 | 1    | Github Account Created                      | https://github.com/dianetambey                                              | 
-| 1    | Github Profile Page                         | https://github.com/`dianetambey`/`dianetambey`                                    |
-| 1    | Commit and Push Change from Command Line    | https://github.com/`dianetambey`/`myenv`/commit/`commit-nr`                |
-| 1    | Create a New Branch                         | https://github.com/`dianetambey`/`myenv`/tree/`myenv`            |
+| 1    | Github Profile Page                         | https://github.com/dianetambey/dianetambey                                  |
+| 1    | Commit and Push Change from Command Line    | https://github.com/dianetambey/myenv/commit/`commit-nr`                |
+| 1    | Create a New Branch                         | https://github.com/dianetambey/myenv/tree/myenv        |
 | 1    | Create a conda environment                  | https://github.com/`dianetambey`/`myenv`/blob/`myenv`/`env.yml`      |
 | 1    | Fork a Repo                                 | https://github.com/`dianetambey`/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | |
