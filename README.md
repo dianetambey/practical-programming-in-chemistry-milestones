@@ -11,7 +11,7 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Github Profile Page                         | https://github.com/dianetambey/dianetambey                                  |
 | 1    | Commit and Push Change from Command Line    | https://github.com/dianetambey/ppchem/commit/99176a53b457cecc49f0bca5633118983383a119                |
 | 1    | Create a New Branch                         | https://github.com/dianetambey/ppchem/tree/ppchem.diane        |
-| 1    | Create a conda environment                  | https://github.com/dianetambey/ppchem/blob/diane.environment/diane.environment.yml    |
+| 1    | Create a conda environment                  | https://github.com/dianetambey/ppchem/blob/ppchem/ppchem.yml   |
 | 1    | Fork a Repo                                 | https://github.com/dianetambey/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | |
 | 2    | (Optional) Review a Pull Request            | |
